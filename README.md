@@ -1,4 +1,4 @@
-# react_assignment1
+# react_assignment_components
 Using React version 17
 
 Create TWO new components: UserInput and UserOutput
